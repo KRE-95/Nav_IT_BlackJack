@@ -55,7 +55,7 @@ Then click run on you Pycharm or press on the green play button on top right cor
 
 
 ## Mindmap
-The image bellow 
+The image bellow show before and after(with red).
 
 ![Mindmap](https://github.com/KRE-95/Nav_IT_BlackJack/blob/master/BlackJack_mindmap.drawio.png)
 
